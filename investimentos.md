@@ -15,5 +15,5 @@ Por fim, a montagem final foi feita no Word, editor de texto no qual a maioria u
 ## 🚀 Resultados
 O e-book apresenta um conteúdo simples mostrando dicas de investimentos com foco no longo prazo e com orientações da ferramenta de IA. O resultado mostra como a IA pode ser muito importante na nossa rotina de trabalho.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/fabiano-mazzocco/lab-natty-or-not/blob/main/ebookteste.pdf)
 
