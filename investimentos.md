@@ -1,8 +1,7 @@
-Carteiras recomendadas com fogo no longo prazo utilizando IA Generativa📈
+#Carteiras recomendadas com fogo no longo prazo utilizando IA Generativa📈
 
 ## 📒 Descrição
 Este e-book mostra o uso de IA generativa como auxiliar para tomada de decisões de investimentos
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
