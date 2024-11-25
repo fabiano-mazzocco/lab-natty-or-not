@@ -1,7 +1,7 @@
 # Carteiras recomendadas com fogo no longo prazo utilizando IA Generativa📈
 
 ## 📒 Descrição
-Este e-book mostra o uso de IA generativa como auxiliar para tomada de decisões de investimentos
+Este e-book mostra o uso de IA generativa como auxiliar para tomada de decisões de investimentos.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
@@ -13,7 +13,7 @@ Utilizei o "ChatGPT" para pedir orientações de investimentos em ações, renda
 Por fim, a montagem final foi feita no Word, editor de texto no qual a maioria utiliza no dia dia. 
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book apresenta um conteúdo simples mostrando dicas de investimentos com foco no longo prazo e com orientações da ferramenta de IA. O resultado mostra como a IA pode ser muito importante na nossa rotina de trabalho.
 
 [LINK PARA O E-BOOK AQUI]()
 
